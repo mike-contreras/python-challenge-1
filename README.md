@@ -1,7 +1,9 @@
 # Inventory System
 
-Simple CLI in-memory inventory management system written in Python.
+Quick and simple CLI in-memory inventory management system written in Python.
 
+To run the CLI tool: 
+`python index.py`
 
 ## CLI Actions
 
